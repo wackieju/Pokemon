@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\jiaji\.android\build-cache\67ca7ea2db732a5efe7bef29bcd6109ec835dc2e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Pokemon\app\build\intermediates\pre-dexed\debug\classes_85d1e7b87df18890878283b1eadf92cfaa0e48aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jiaji\.android\build-cache\4b2fafa1d7055b37f6f46fd3fcc6352931263add\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Pokemon\app\build\intermediates\pre-dexed\debug\classes_779de54db361ce15ea2c3f860fdff3b33f961c3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jiaji\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Pokemon\app\build\intermediates\pre-dexed\debug\common-1.0.0_21e18c5c0b11047eec5cadaf6f9bcb780d26a93c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jiaji\.android\build-cache\ac4db7ff41444c53f1b18f5ceeb401722f2870a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Pokemon\app\build\intermediates\pre-dexed\debug\classes_7d7401d728d839c8a354e5555a338d7fb24d47b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jiaji\.android\build-cache\ae9e3c03aead640cc93c4974306fe0735d62f619\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Pokemon\app\build\intermediates\pre-dexed\debug\classes_dbd98f9e2066213133bf2b596f50ad85df57bf4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jiaji\.android\build-cache\456ee0f1062f6eb2b5a3d28eed171bf153ac6567\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Pokemon\app\build\intermediates\pre-dexed\debug\classes_7b5b585b8a406685dfd161108bda7b51ed5503a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jiaji\.android\build-cache\2cdab22133c9881e8d46aae7a4f8e6e5575c8293\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Pokemon\app\build\intermediates\pre-dexed\debug\classes_2af9cbc1d522c88dd33f61294fbdd4dbbf214bfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jiaji\.android\build-cache\da38c2b728a3f0ea27269f11efbdbf2663cdb2c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Pokemon\app\build\intermediates\pre-dexed\debug\classes_54f26b9b376b80ccd9f39b490643ee547d257c3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jiaji\.android\build-cache\2648756cde5ec52439519eb386f2ab6aeba329f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Pokemon\app\build\intermediates\pre-dexed\debug\classes_cd9c74121b2b0106c02b67c8cf242945e08c69b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jiaji\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.0.2\b9cd8fc6bd15cb915735d34535db30ece0c44603\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Pokemon\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_a06ce289c6dee0aa6943dacced5965753f980dcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jiaji\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Pokemon\app\build\intermediates\pre-dexed\debug\common-1.0.0_34bbaa3987aa41800e5e7e3f4963275ba1592bce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jiaji\.android\build-cache\4481bed9ba6b19d6fc3989d927e6c151136fbf0e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Pokemon\app\build\intermediates\pre-dexed\debug\classes_839490dbb201af703300561b6ff4e180708521a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jiaji\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Pokemon\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_7e91d1e467a07456c8a668f7907c395ad5d74254.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jiaji\.android\build-cache\2e2a6e27154f71e429d51efd974b3e1eaee25a6e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Pokemon\app\build\intermediates\pre-dexed\debug\classes_3167b668290d1219ca9a81b3ff85f84203a45f60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jiaji\.android\build-cache\ae8c98a15a39267600b3c468c684a4acb7324fe6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Pokemon\app\build\intermediates\pre-dexed\debug\classes_aaf9c80059efd37493457a3382b7e73cc9c74122.jar" />
+    </item>
+
+</items>
